@@ -11,7 +11,7 @@ export default function Hero() {
           </div>
           <div className="col-md-5 text-center">
             <img
-              src="/Profile.jpg"
+              src="/profile.jpg"
               alt="Profile"
               className="rounded-circle profile-img mb-3"
               width="130"
